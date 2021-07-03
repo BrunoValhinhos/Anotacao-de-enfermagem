@@ -1,0 +1,59 @@
+*{
+   font-style: italic;
+}
+body{
+    background-color: rgb(56, 255, 99);
+    font: normal 15t Arial;
+}
+header{
+    color: rgb(7, 63, 26);
+    text-align: center;
+    }
+section{
+    background-color: rgb(207, 204, 204);
+    border-radius: 20px;
+    padding: 10px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.507);
+    text-align: center;
+    margin-top: 10px;
+    
+    
+}
+footer{
+    color: rgb(7, 63, 26);
+    text-align: center;
+}
+#Titulo {
+    background-color: rgba(16, 94, 0, 0.671);
+
+}
+#SIS, #DIA{
+    width: 69px;
+}
+#p1, #p2, #p3, #p4, #p5, #p6 {
+    font-size: 20px;
+    font-style: normal;
+    background-color: white ;
+    margin: 0px;
+    border-radius: 60px;
+    align-items: center;
+}
+#dieta {
+    margin-top: 5px;
+    text-align: center;
+}
+#botao {
+    font-size: 1.2em;
+    margin-bottom: 0px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+    background: rgb(86, 221, 82);
+}
+#acessos, #eli, #ssvv, #esta, #tdieta{
+    font-size: 1.2em;
+    text-align:start
+}
+#mob, #cor, #hid, #estado {
+    width: 150px; 
+}
